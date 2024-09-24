@@ -1,2 +1,2 @@
 # etch-a-sketch
-In-browser etch-a-sketch/sketchpad app
+Code and documentation for etch-a-sketch/sketchpad app that works in a browser
